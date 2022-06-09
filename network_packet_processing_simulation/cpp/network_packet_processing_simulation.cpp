@@ -1,4 +1,3 @@
-//network packet processing simulation
 #include <vector>
 #include <queue>
 #include <cassert>
@@ -13,8 +12,6 @@ std::vector<int> netPackages(int buff_size, std::vector<std::pair<int, int>> v)
     std::queue<int> ids;
     std::queue<int> buff_arrive;
     std::vector<int> times_answer(v.size());
-
-    std::fill(times_answer.begin(), times_answer.end(), -2);
 
     for (int i = 0; i < buff_size; i++)
     {

@@ -40,6 +40,7 @@
     5
     -1 0 4 0 3
 ![alt text](https://psv4.vkuseraudio.net/s/v1/d/k-QTZiibP-9JSRhPMuTQ8HCHhX5mGaJ5Fhc9ThedhqdgUR_BRTuJtK7-eiXxMm6KWYKTtQ9ZOXH1L4zU0vtgY6NiV9L8mz3zdL4jGUfJS6JaRDWUtmHXtA/Screenshot_from_2022-06-08_23-43-08.png)
+
 **Выход:**
 
     4
